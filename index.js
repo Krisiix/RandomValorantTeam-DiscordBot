@@ -288,7 +288,7 @@ bot.on('ShowTeam', async message => {
 
 
 
-bot.login('process.env.TOKEN')
+bot.login(process.env.TOKEN)
 
 
 
