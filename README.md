@@ -1,18 +1,18 @@
 # RandomValorantTeam-DiscordBot
 
----------------------------------------------------------------- A quoi sert-il ? -------------------------------------------------------
+#titre A quoi sert-il ?
 
-# RandomValorantTeam est un bot discord permettant de répartir des joueurs de manière aléatoire dans des équipes. 
+RandomValorantTeam est un bot discord permettant de répartir des joueurs de manière aléatoire dans des équipes. 
 
 Le but du Bot est de proposer aux joueurs qui apprécient défier leurs amis sur Valorant, un service qui façonne deux équipes de 5 joueurs de manière totalement aléatoire sur une des cartes du jeu.
 
---------------------------------------------------- Comment l'ajouter sur son serveur Discord -----------------------------------------
+#titre Comment l'ajouter sur son serveur Discord
 
 Pour ajouter ce bot à votre serveur discord c'est tout simple il suffit de cliquer sur ce lien :
 https://discordapp.com/oauth2/authorize?client_id=706814658279112796&scope=bot&permissions=285760
 et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
----------------------------------------------------------- Comment fonctionne t'il ? ---------------------------------------------------
+#titre Comment fonctionne t'il ?
 
 Pour commencer, il suffit d'écrire la commande !team sur un des channels textuels du serveur.
 
