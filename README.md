@@ -9,7 +9,7 @@ Le but du Bot est de proposer aux joueurs qui apprécient défier leurs amis sur
 <h1>Comment l'ajouter sur son serveur Discord</h1>
 
 Pour ajouter ce bot à votre serveur discord c'est tout simple il suffit de cliquer sur ce lien :
-https://discordapp.com/oauth2/authorize?client_id=706814658279112796&scope=bot&permissions=285760
+_https://discordapp.com/oauth2/authorize?client_id=706814658279112796&scope=bot&permissions=285760_
 et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
 <h1>Comment fonctionne t'il ?</h1>
@@ -28,7 +28,7 @@ Après avoir réaliser tous ces calculs il vous enverra toutes ses informations 
 
 Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en espérant que la chance soit avec vous pour vous retrouvez avec vos amis les plus valeureux.
 
-🙏Merci à ceux qui utiliseront ce Bot.🙏
+🙏_Merci_ à ceux qui utiliseront ce Bot.🙏
 
 
-This Bot was designed by Krisix©.
+This Bot was designed by _Krisix©_.
