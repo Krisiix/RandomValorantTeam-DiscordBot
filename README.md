@@ -1,6 +1,6 @@
 # RandomValorantTeam-DiscordBot
 
----------------------------------------------------------------- A quoi sert-il ? ------------------------------------------------------
+---------------------------------------------------------------- A quoi sert-il ? -------------------------------------------------------
 
 RandomValorantTeam est un bot discord permettant de répartir des joueurs de manière aléatoire dans des équipes. 
 
