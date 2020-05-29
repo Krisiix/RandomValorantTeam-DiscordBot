@@ -28,7 +28,7 @@ Après avoir réaliser tous ces calculs il vous enverra toutes ses informations 
 
 Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en espérant que la chance soit avec vous pour vous retrouvez avec vos amis les plus valeureux.
 
-🙏_Merci_ à ceux qui utiliseront ce Bot.🙏
+🙏 _Merci_ à ceux qui utiliseront ce Bot.🙏
 
 
 This Bot was designed by *Krisix©*.
