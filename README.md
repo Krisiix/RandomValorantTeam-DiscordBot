@@ -9,14 +9,14 @@ Le but du Bot est de proposer aux joueurs qui apprécient défier leurs amis sur
 <h1>Comment l'ajouter sur son serveur Discord</h1>
 
 Pour ajouter ce bot à votre serveur discord c'est tout simple il suffit de cliquer sur ce lien :
-_https://discordapp.com/oauth2/authorize?client_id=706814658279112796&scope=bot&permissions=285760_
+https://discordapp.com/oauth2/authorize?client_id=706814658279112796&scope=bot&permissions=285760
 et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
 <h1>Comment fonctionne t'il ?</h1>
 
-<h5>Pour commencer, il suffit d'écrire la commande !team sur un des channels textuels du serveur.</h5>
+Pour commencer, il suffit d'écrire la commande !team sur un des channels textuels du serveur.
 
-<h3>Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.</h3>
+Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.
 
 Pour participer il suffit que chaque joueur ajoute cette réaction ✅ au message du Bot. 
 
