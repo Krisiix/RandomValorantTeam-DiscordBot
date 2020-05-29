@@ -16,7 +16,7 @@ et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
 <h5>Pour commencer, il suffit d'écrire la commande !team sur un des channels textuels du serveur.</h5>
 
-<h5>Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.</h5>
+<h3>Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.</h3>
 
 Pour participer il suffit que chaque joueur ajoute cette réaction ✅ au message du Bot. 
 
