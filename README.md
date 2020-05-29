@@ -31,4 +31,4 @@ Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en esp�
 🙏_Merci_ à ceux qui utiliseront ce Bot.🙏
 
 
-This Bot was designed by _Krisix©_.
+This Bot was designed by *Krisix©*.
