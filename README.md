@@ -1,4 +1,4 @@
-# RandomValorantTeam-DiscordBot
+# RandomValorantTeam DiscordBot
 
 <h1>A quoi sert-il ?</h1>
 
