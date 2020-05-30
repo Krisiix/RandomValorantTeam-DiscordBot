@@ -2,7 +2,7 @@
 
 <h1>A quoi sert-il ?</h1>
 
-RandomValorantTeam est un bot discord permettant de répartir des joueurs de manière aléatoire dans des équipes. 
+**RandomValorantTeam** est un bot discord permettant de répartir des joueurs de manière aléatoire dans des équipes. 
 
 Le but du Bot est de proposer aux joueurs qui apprécient défier leurs amis sur Valorant, un service qui façonne deux équipes de 5 joueurs de manière totalement aléatoire sur une des cartes du jeu.
 
@@ -14,21 +14,20 @@ et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
 <h1>Comment fonctionne t'il ?</h1>
 
-Pour commencer, il suffit d'écrire la commande <h3>!team</h3> sur un des channels textuels du serveur.
+▶ Pour commencer, il suffit d'écrire la commande **!team** sur un des channels textuels du serveur.
 
-Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.
+▶ Le Bot va aussitôt vous répondre et en proposant aux joueurs de participer.
 
-Pour participer il suffit que chaque joueur ajoute cette réaction ✅ au message du Bot. 
+▶ **Pour participer** il suffit que chaque joueur ajoute cette réaction ✅ au message du Bot. 
 
-A chaque fois qu'un joueur ajoute sa participation au match le bot indiquera qu'il a bien pris en compte cette dernière.
+▶ A chaque fois qu'un joueur ajoute sa participation au match le bot indiquera qu'il a bien pris en compte cette dernière.
 
-Lorque 10 joueurs auront émis leur participation, le Bot va automatiquement calculer et définir les équipes de manière totalement aléatoire. Puis il va choisir la carte sur laquelle le match devra se dérouler.
+▶ Lorque 10 joueurs auront émis leur participation, le Bot va automatiquement calculer et définir les équipes de manière totalement aléatoire. Puis il va choisir la carte sur laquelle le match devra se dérouler.
 
-Après avoir réaliser tous ces calculs il vous enverra toutes ses informations sous la forme d'une image. 
+▶ Après avoir réaliser tous ces calculs il vous enverra toutes ses informations sous la forme d'une image. 
 
 Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en espérant que la chance soit avec vous pour vous retrouvez avec vos amis les plus valeureux.
 
-🙏 _Merci_ à ceux qui utiliseront ce Bot.🙏
+🙏 **Merci** à ceux qui utiliseront ce Bot.🙏
 
-
-This Bot was designed by *Krisix©*.
+>This Bot was designed by **Krisix©**.
