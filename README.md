@@ -26,7 +26,7 @@ et de sélectionner le serveur sur lequel vous souhaitez ajouter le Bot.
 
 ▶ Après avoir réaliser tous ces calculs il vous enverra toutes ses informations sous la forme d'une image. 
 
-Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en espérant que la chance soit avec vous pour vous retrouvez avec vos amis les plus valeureux.
+🎉 Voilà, vous pouvez maintenant profiter avec vos amis en les défiant et en espérant que la chance soit avec vous pour vous retrouvez avec vos amis les plus valeureux.
 
 🙏 **Merci** à ceux qui utiliseront ce Bot.🙏
 
