@@ -104,30 +104,7 @@ bot.on('message', function(message){
         })
     }
 
-    if(message.content=== '!restart'){
-        if(membres.length >= 10){
-            //chargement en cours
-            message.channel.send(':arrows_counterclockwise: Vérification du nombre de joueurs en cours... :black_square_button::black_square_button::black_square_button::black_square_button: 0%')
-            .then((msg)=> {
-            setTimeout(function(){
-                msg.edit(':arrows_counterclockwise: Répartition des joueurs en cours... :green_square::black_square_button::black_square_button::black_square_button: 25%');
-            }, 1125)
-            setTimeout(function(){
-                msg.edit(':arrows_counterclockwise: Sélection des camps en cours... :green_square::green_square::black_square_button::black_square_button: 50%');
-            }, 2250)
-            setTimeout(function(){
-                msg.edit(':arrows_counterclockwise: Sélection de la carte en cours... :green_square::green_square::green_square::black_square_button: 75%');
-            }, 3375)
-            setTimeout(function(){
-                msg.edit('✅ Préparation du match terminée :green_square::green_square::green_square::green_square: 100%');
-            }, 4500)
-            })
-            
-            setTimeout(function(){
-            bot.emit('ShowTeam', message)
-            }, 1000)
-        }
-    }
+    
     
     if(message.content=== '!help'){
         //chargement en cours
