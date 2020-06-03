@@ -1,3 +1,5 @@
+//Bot designed by Krisix
+
 var map2 = ['/// SPLIT', '/// BIND', '/// HAVEN', '/// ASCENT']
 var membres = []
 var messages = []
@@ -10,7 +12,7 @@ const  bot = new Discord.Client()
 
 bot.on('ready', function(){
     //bot.user.setAvatar('./valorant.jpg').catch(console.error)
-    bot.user.setActivity('Adding Ascent').catch(console.error)
+    bot.user.setActivity('Spike Rush sur Ascent').catch(console.error)
     console.log("Le bot est en ligne")
 })
 
@@ -37,11 +39,11 @@ bot.on('message', function(message){
                 if (reaction.emoji.name === '✅' && user.id !== bot.user.id) {
                     
                     //Vérification you can join the party (marche parfaitement si bug essayez membres.shift)
-                    //if(user !== membres[0] && user !== membres[1] && user !== membres[2] && user !== membres[3] && user !== membres[4]&& user !== membres[5] && user !== membres[6] && user !== membres[7]&& user !== membres[8]&& user !== membres[9] && membres.length <10){
+                    if(user !== membres[0] && user !== membres[1] && user !== membres[2] && user !== membres[3] && user !== membres[4]&& user !== membres[5] && user !== membres[6] && user !== membres[7]&& user !== membres[8]&& user !== membres[9] && membres.length <10){
                         var newLength = membres.push(user)
                         message.channel.send(':arrow_forward: Participation enregistrée pour <@' + user.id + '>.**('+membres.length + '/10)**').then( messageid2 = message.id)
                         
-                    //}
+                    }
                     // afficher si les personnes spam le bot
                     /*else if (message.id === messageid2){
                         message.channel.send(':no_entry: Dis donc <@' + user.id + '>, tu peux arrêter de spam ??**('+membres.length + '/10)**')
