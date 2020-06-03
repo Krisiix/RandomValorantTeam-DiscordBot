@@ -67,10 +67,10 @@ bot.on('message', function(message){
                     //supp les message du bot
                     message1.delete()
                     
-                    for (let i = 0; i < messages.length; i++) {
+                    /*for (let i = 0; i < messages.length; i++) {
                         const element = messages[i];
                         element.delete();
-                    } 
+                    } */
 
                     //chargement en cours
                     message.channel.send(':arrows_counterclockwise: Vérification du nombre de joueurs en cours... :black_square_button::black_square_button::black_square_button::black_square_button: 0%')
