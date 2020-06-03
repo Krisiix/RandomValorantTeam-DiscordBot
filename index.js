@@ -1,4 +1,4 @@
-var map2 = ['/// SPLIT', '/// BIND', '/// HAVEN']
+var map2 = ['/// SPLIT', '/// BIND', '/// HAVEN', '/// ASCENT']
 var membres = []
 var messages = []
 
@@ -10,7 +10,7 @@ const  bot = new Discord.Client()
 
 bot.on('ready', function(){
     //bot.user.setAvatar('./valorant.jpg').catch(console.error)
-    bot.user.setActivity('Make Valorant Teams').catch(console.error)
+    bot.user.setActivity('Adding Ascent').catch(console.error)
     console.log("Le bot est en ligne")
 })
 
@@ -162,7 +162,7 @@ bot.on('ShowTeam', async message => {
     } while (i10 === i1 || i10 === i2 || i10 === i3 || i10 === i4 || i10 === i5 || i10 === i6 || i10 === i7 || i10 === i8|| i10 === i9)
     
     //map random and show map
-    var imap = Math.floor(Math.random() * 3)
+    var imap = Math.floor(Math.random() * map2.length)
     
 
     //canva
